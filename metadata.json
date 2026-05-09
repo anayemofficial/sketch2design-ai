@@ -1,0 +1,6 @@
+{
+  "name": "Sketch2Design AI",
+  "description": "Transform rough hand-drawn sketches and doodles into stunning, professional high-fidelity UI/UX wireframes, website landing pages, dashboards, illustrations, and logos using advanced Computer Vision and state-of-the-art Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI-powered sketch scanning", "Interactive responsive drawing studio", "Multiple design output modes", "Before/After comparison slider", "Figma/SVG standard export"]
+}
