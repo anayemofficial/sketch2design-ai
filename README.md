@@ -29,11 +29,6 @@ npm run dev
 npm run build
 ```
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/46f71632-1baa-43a5-8e47-6ef8cef319ea
 
 ## Run Locally
 
